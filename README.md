@@ -1,7 +1,10 @@
 # RaspberryPi
 First RaspberryPi Setup and build.
+
 Raspberry PI 5 Documentation: 04/13/2024
-Remove all items from their box or plastic coverings and place them on a clean, level surface, except for the microSD card. Leave the microSD card in the static shield until the appropriate step.
+<n>
+Remove all items from their box or plastic coverings and place them on a clean, level surface, except for the microSD card. Leave the microSD card in the anti-static bag/shield until the appropriate step.
+
 1.	Disassemble the case into three (3) parts: bottom plate, middle insert, and top plate. Set each part beside the other for preparation.
 
 2.	Remove the case fan header cap from the motherboard.
